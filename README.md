@@ -25,7 +25,8 @@ _Group of Computer Networks, Software Engineering and Systems (GREat)_<br>
 _Federal University of Ceará_
 
 **AI Researcher** may/2021 - jul/2021<br>
-_Dell Lead_<br>
+_Dell Lead_
+
 **Masters research fellow** february/2020 - jul/2021<br>
 _Federal University of Ceará_
 
@@ -67,7 +68,7 @@ You can contact me on any link below. ;)
 <img src="https://img.shields.io/badge/-Lucas%20S.%20Fernandes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasfernandes42/" /></a>
 
 <a href="https://t.me/lucasfer42" alt="Telegram">
-<img src="https://img.shields.io/badge/-%40lucasfer42-white?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/lucasfer42"" /></a>  
+<img src="https://img.shields.io/badge/-%40lucasfer42-white?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/lucasfer42" /></a>  
   
 <!--
 **lucasfernandes42/lucasfernandes42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
