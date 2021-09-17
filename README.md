@@ -1,4 +1,4 @@
-# Lucas S. Fernandes 👋
+# Lucas S. Fernandes
 
 Software Developer at GREat - UFC
 
