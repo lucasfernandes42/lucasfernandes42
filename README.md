@@ -1,10 +1,10 @@
 # Lucas S. Fernandes 👋
 
-Software Developer at GREat
+Software Developer at GREat - UFC
 
 Mastering in Computer Science
 
-_Federal University of Ceará - Brazil_
+_Federal University of Ceará (UFC) - Brazil_
 
 ## About 
 
