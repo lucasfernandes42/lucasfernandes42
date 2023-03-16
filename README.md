@@ -17,10 +17,11 @@ Welcome to my page! I'm a 24 years old computer science masters student and soft
 - Machine learning
 - Data science
 - Software development
+- Music prodution and beatmaking
 
 ## Work
 
-**Software developer** aug/2021 - today<br>
+**Software developer** aug/2021 - dec/2022<br>
 _Group of Computer Networks, Software Engineering and Systems (GREat)_<br>
 _Federal University of Ceará_
 
@@ -50,6 +51,10 @@ _Colégio Sete de Setembro_
 
 ## Publications
 
+da Costa, Leonardo F., et al. **Deep convolutional features for fingerprint indexing.** Intelligent Systems: 10th Brazilian Conference, BRACIS 2021, Virtual Event, November 29–December 3, 2021, Proceedings, Part II 10. Springer International Publishing, 2021.
+
+Fernandes, Lucas S., et al. **Robust Fingerprint Singular Point Detection Using a Single-Stage CNN for Object Detection.**, 28th International Conference on Systems, Signals and Image Processing (IWSSIP), June 2021, pp. 1–12.
+
 Fernandes, Lucas S., et al. **A Robust Automatic License Plate Recognition System for Embedded Devices**. _Brazilian Conference on Intelligent Systems_. Springer, Cham, 2020.
 
 Soares, Felipe, et al. **Avaliação de Desempenho de Computadores Raspberry Pi com Algoritmos para o Reconhecimento Automático de Placas Veiculares**. _Anais Estendidos do X Simpósio Brasileiro de Engenharia de Sistemas Computacionais_. SBC, 2020.
@@ -69,19 +74,3 @@ You can contact me on any link below. ;)
 
 <a href="https://t.me/lucasfer42" alt="Telegram">
 <img src="https://img.shields.io/badge/-%40lucasfer42-white?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/lucasfer42" /></a>  
-  
-<!--
-**lucasfernandes42/lucasfernandes42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
